@@ -1,0 +1,20 @@
+{
+  "name": "express-tddprimer",
+  "version": "0.0.0",
+  "description": "Just learning TDD, don't mind me.",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Randall A. Gordon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.0",
+    "mocha": "~1.13.0",
+    "mongoose": "~3.6.20",
+    "bcrypt": "~0.7.7"
+  },
+  "devDependencies": {
+    "should": "~1.3.0"
+  }
+}
